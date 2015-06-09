@@ -15,5 +15,4 @@ _.loadServer({
   _.loadService("users", discoveryConfig),
   _.loadService("storage", discoveryConfig),
 ]))
-.then(() => console.log("DONE"))
-.then();
+.then(() => console.log("DONE"));
