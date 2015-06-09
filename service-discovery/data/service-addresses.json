@@ -1,0 +1,22 @@
+{
+  "client": {
+    "hostname": "localhost",
+    "port": 3000
+  },
+  "users": {
+    "hostname": "users.micro.services",
+    "port": 8088
+  },
+  "articles": {
+    "hostname": "localhost",
+    "port": 8080
+  },
+  "discovery": {
+    "hostname": "discovery.micro.services",
+    "port": 8411
+  },
+  "storage": {
+    "hostname": "storage.micro.services",
+    "port": 8000
+  }
+}
